@@ -15,6 +15,7 @@ https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Routin
 ![Screenshot Backend](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-1.jpg)
 
 ## Making the new field work with the "Slug" Extension
+
 ```
 # Slug module configuration for cal event records
 module.tx_slug {
@@ -31,6 +32,8 @@ module.tx_slug {
     }
 }
 ```
+
+More details about that here: https://github.com/koehlersimon/slug#custom-records
 
 ## Slug-Extension editors view
 ![Screenshot Slug Module](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-2.jpg)
