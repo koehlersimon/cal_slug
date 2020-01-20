@@ -11,9 +11,8 @@ https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Routin
 - Adds a new field called 'slug' to the table 'tx_cal_event'
 - Adds a new input field of type 'slug' to the backend form
 
-### New slug field in the backend
+## New slug field in the backend
 ![Screenshot Backend](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-1.jpg)
-![Screenshot Slug Module](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-2.jpg)
 
 ## Making the new field work with the "Slug" Extension
 ```
@@ -32,6 +31,9 @@ module.tx_slug {
     }
 }
 ```
+
+## Slug-Extension editors view
+![Screenshot Slug Module](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-2.jpg)
 
 ## Do you want to learn TYPO3? Here's what you need:
 Video Training TYPO3 9 LTS (German language) https://www.digistore24.com/redir/246076/GOCHILLA/
