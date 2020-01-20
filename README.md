@@ -4,9 +4,12 @@ This little helper extension adds a new slug field to the TYPO3 calendar (cal) e
 ### Important note:
 You have to take care of the 'routeEnhancers' configuration yourself, in order to make your event URLs look nice in the frontend. This extension only provides information about how to add the necessary fields and functions!
 
+Here's more about TYPO3 Route Enhancers (Advanced Routing Configuration):
+https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Routing/AdvancedRoutingConfiguration.html
+
 ## What does it do?
-- Adds a new field 'slug' to the table 'tx_cal_event'
-- Adds a new input fields of renderType 'slug' to the backend form
+- Adds a new field called 'slug' to the table 'tx_cal_event'
+- Adds a new input field of type 'slug' to the backend form
 
 ## Making the new field work with the "Slug" Extension
 ```
