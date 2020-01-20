@@ -1,4 +1,7 @@
 # Slug field for the TYPO3 calendar (cal) extension
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/typo3freelancer/20)
+
 This little helper extension adds a new slug field to the TYPO3 calendar (cal) extension. You can see it as an example on how to add a slug field to any extension and use the code for your own ideas/projects. The reason for choosing the calendar extension is based on a user request.
 
 ### Important note:
