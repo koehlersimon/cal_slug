@@ -11,6 +11,10 @@ https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/ApiOverview/Routin
 - Adds a new field called 'slug' to the table 'tx_cal_event'
 - Adds a new input field of type 'slug' to the backend form
 
+### New slug field in the backend
+![Screenshot Backend](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-1.jpg)
+![Screenshot Slug Module](https://raw.githubusercontent.com/koehlersimon/cal_slug/master/Resources/Public/Images/cal-slug-screen-2.jpg)
+
 ## Making the new field work with the "Slug" Extension
 ```
 # Slug module configuration for cal event records
