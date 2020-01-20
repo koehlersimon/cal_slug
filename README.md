@@ -24,7 +24,7 @@ module.tx_slug {
         }
     }
 }
-``
+```
 
 ## Do you want to learn TYPO3? Here's what you need:
 Video Training TYPO3 9 LTS (German language) https://www.digistore24.com/redir/246076/GOCHILLA/
